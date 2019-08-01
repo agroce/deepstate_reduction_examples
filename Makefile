@@ -2,3 +2,4 @@
 
 all:
 	$(CXX) -o keepsake keepsake.cpp -ldeepstate -std=c++14
+	$(CXX) -o buffercontents buffercontents.cpp -ldeepstate -std=c++14
